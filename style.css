@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    margin: 15px;
+    padding: 10px;
+    color: brown;
+    background-color: rgb(34, 58, 102);
+    justify-content: center;
+    text-align: center;
+    vertical-align: center;
+    border-radius: 5px;
+}
