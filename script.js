@@ -24,7 +24,7 @@ function viewToDo(list) {
         btn.addEventListener('click',()=>{
             if(element.taskStatus=="pending") 
             {
-                element.taskStatus=="done";
+                element.taskStatus="done";
                 task.style.color="green";
             }
         });
